@@ -1,9 +1,6 @@
-## Hi I'm Jeremy 👌
+## Yohoo! welcome to my github!
 
-📚 Computer Science student at Bicol University<br/>
-🎨 Independent graphic artist<br/>
-👨‍💻 I'm currently learning how Cyber Security works<br/>
-💎 I like to learn different languages to stay sharp<br/>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/badjzzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremy-legaspi-222719379) 
