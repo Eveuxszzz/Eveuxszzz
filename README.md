@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a Computer Science Undergraduate<br>
-Currently learning React and Node.js<br>
+🎓 I'm a Computer Science Undergraduate<br>
+💻 Currently learning React and Node.js<br>
 
 
 # 💻 Tech Stack:
